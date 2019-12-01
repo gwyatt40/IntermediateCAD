@@ -3,8 +3,10 @@
 ## Design Tables
 
   ### Description
+  This was the first CAD assignment we had to do this year. We had to use Design Tables to create 7 different configurations of a spool with different sizes and different numbers of holes.
 
   ### Problems
+  The new element of Design Tables was the hardest part of this project. 
 
   ### Pictures
 
