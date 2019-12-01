@@ -16,10 +16,10 @@
   
   ### Lessons Learned
   
-  - Order your configurations by size in the Design Table, it makes adding in dimensions/supressing components much easier
-  - If you have to copy someting from Canvas into SolidWorks, write it down or have it open on a seperate computer to save time
-  - Number dimensions may be hard to find so try zooming out the display window in case they're floating somewhere
-  - If SolidWorks will not let you create a new Design Table, odds are you already have one and can edit it
+- Order your configurations by size in the Design Table, it makes adding in dimensions/supressing components much easier
+- If you have to copy someting from Canvas into SolidWorks, write it down or have it open on a seperate computer to save time
+- Number dimensions may be hard to find so try zooming out the display window in case they're floating somewhere
+- If SolidWorks will not let you create a new Design Table, odds are you already have one and can edit it
 
 ## Advanced and Mechanical Mates
 
